@@ -11,7 +11,7 @@ npm install
 
 ## Create a public folder
 ```bash
-mrdir public
+mkdir public
 ```
 
 ## To run the server
